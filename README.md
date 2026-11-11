@@ -69,11 +69,11 @@ The project includes a three-page interactive dashboard.
 
 ## Project Files
 
-The repository contains the available project deliverables:
+The repository contains the following project deliverables:
 
-- Power BI dashboard (`.pbix`)
-- Project report (`.pdf`)
-- Dashboard screenshots
+- Power BI Dashboard (`.pbix`)
+- Power BI Dashboard Screenshots (all three pages)
+- PySpark Execution Screenshots (data processing, model training, predictions, and evaluation)
 
 ## Key Highlights
 
